@@ -4,13 +4,13 @@ A smart, AI-driven Streamlit application that transforms plain English queries i
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This application simplifies the process of querying Druid databases by converting natural language inputs into structured SQL queries. By leveraging **Google's Gemini 1.5 Pro API**, the tool supports dynamic query generation based on user intent, eliminating the need for manual SQL writing.
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 - Converts user-friendly English prompts into valid Druid SQL
 - Secure and flexible runtime API key entry (no hardcoding)
